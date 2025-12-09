@@ -1,8 +1,0 @@
-Fork/branch: nivala-bio
-File: nivala-bio.md
-Biotin-streptavidin sandwich on glass slide
-Terbium- or bismuth-tagged nucleotides (replace one phosphate or sugar)
-1.55 μm laser + 100–200 mT days
-Polarimeter readout
-Bonus: add Cas9/dCas9 handles for random access
-→ Goal: proof-of-concept rotation video in 30 coil

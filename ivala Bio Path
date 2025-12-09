@@ -1,0 +1,14 @@
+# Nivala Bio Path (Simulated "yes" from Jeff Nivala)
+
+- Plate biotin-tagged DNA on glass slide  
+- Sandwich with thin garnet film + polarizer  
+- Terbium- or bismuth-doped nucleotides (replace one phosphate or sugar)  
+- 1.55 μm laser + 100–200 mT magnetic coil  
+- Measure Faraday rotation with polarimeter (or phone camera + cheap polarizer sheet)  
+- If the light twists → film it → post video to repo  
+
+### Bonus / Next level  
+- Add Cas9/dCas9 handles → random-access bits  
+- Source terbium conjugates from Sigma-Aldrich (~$200)  
+
+Goal: 30-day proof-of-concept rotation video

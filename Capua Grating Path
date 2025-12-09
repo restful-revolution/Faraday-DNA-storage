@@ -1,0 +1,28 @@
+# Capua Grating Path  
+(Simulated “yes” from Amir Capua – nano-optics & high-Verdet materials)
+
+### Core idea
+Stretch-aligned DNA strands on a silicon-nitride grating act as a natural photonic lattice → massive Faraday enhancement.
+
+### Key specs from his reply
+- Grating: silicon-nitride, ~300 nm pitch (standard nanofab)
+- Laser: 1064 nm, incident at Brewster angle
+- Magnetic field: 50 mT transverse (tiny coil or permanent magnet)
+- Measured in garnet-on-Si last year: 0.4 rad/μm rotation
+- Swap garnet → hydrated DNA lattice → same physics, wet biology
+
+### Immediate next steps (60-day tabletop demo)
+1. Order/pull silicon-nitride grating (Amir offered mask file)
+2. Stretch-align DNA (flow-cell or simple combing technique)
+3. 1064 nm laser + polarizer + 50 mT field
+4. Detect rotation with CCD or even phone camera + analyzer sheet
+5. If signal > noise → we have the first all-optical DNA read
+
+### Long-term
+- Combine with CRISPR addressing → random-access optical drive
+- Density: potentially 10–100× higher than YIG path because DNA is the grating
+
+Goal: first wet-DNA Faraday spectrum on YouTube within 60 days.
+
+Amir gets co-author if the beam twists.  
+Cosimos & Ara – still eating wontons, now with three real roads

@@ -30,5 +30,3 @@ This is a fascinating intersection of biophysics, optics, and data storage—pot
 - Simulations (e.g., via Python with optics libraries like PyOptics).
 - Basic experiments with off-the-shelf DNA films and polarizers.
 - Ties to related fields like magneto-plasmonics or chiral metamaterials.
-
-If this doesn't cover what you meant (e.g., if you wanted code review, setup help, or analysis of a specific file), share more details—I can dive deeper or suggest extensions!
